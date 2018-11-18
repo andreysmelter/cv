@@ -33,7 +33,8 @@ Department of Computer Engineering and Computer Science
 Bioinformatics Ph.D.  
 My thesis was titled *"Algorithms for automated assignment of solution-state and solid-state protein NMR spectra"*  
 and is available through the 
-[ThinkIR: The University of Louisville's Institutional Repository](https://ir.library.louisville.edu/etd/2779/).
+ThinkIR: The University of Louisville's Institutional Repository: 
+[ir.library.louisville.edu/etd/2779](https://ir.library.louisville.edu/etd/2779).
 
 `2010-2013`
 **University of Louisville**, Louisville, KY 40292  
