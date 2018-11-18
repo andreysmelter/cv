@@ -194,13 +194,13 @@ strong {
 }
 
 .footer {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-		position: relative;
-		left: 33%;
-		margin-top: 2em;
-		margin-bottom: 3em;
-		margin-right: 0;
-		width: 65%;
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+	-moz-column-count: 3; /* Firefox */
+	column-count: 3;
+	position: relative;
+	left: 33%;
+	margin-top: 2em;
+	margin-bottom: 3em;
+	margin-right: 0;
+	width: 65%;
 }
