@@ -72,7 +72,7 @@ p {
 code {
 	font: normal normal;
 	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	color: #444;
 }
 
@@ -105,7 +105,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Cousine, Verdana, sans-serif;
 	width: 65%;
 }
 
@@ -166,7 +166,7 @@ a:hover {
 	position: relative;
 	left: 28%;
 	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
 
