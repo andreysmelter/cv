@@ -19,11 +19,12 @@ Bioinformatics Ph.D. and software developer
 
 `2017-` 
 **University of Kentucky**, Markey Cancer Center, Lexington, KY 40536  
-I’m a Bioinformatics Researcher (post-doctoral fellow) and software developer at 
+I’m a Bioinformatics Researcher and software developer at 
 [Moseley Bioinformatics Lab](http://bioinformatics.cesb.uky.edu/).  
-Here I develop software packages for Nuclear Magnetic Resonance (NMR) and Mass Spectrometry (MS) data analysis, 
-analyze and integrate data from publicly available scientific repositories, develop pipelines to facilitate deposition 
-of metabolomics data.
+Here I develop software packages for Nuclear Magnetic Resonance (NMR) and 
+Mass Spectrometry (MS) data analysis, analyze and integrate data from 
+publicly available scientific repositories, develop pipelines to facilitate 
+deposition of metabolomics data.
 
 ## Education
 
