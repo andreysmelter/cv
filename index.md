@@ -118,7 +118,7 @@ Metabolomics Symposium, Lexington, KY
 
 **Software documentation:** sphinx, Doxygen, Roxygen
 
-**Software testing:** pytest, unittest
+**Software testing:** pytest, unittest, testthat
 
 **Version control:** Git, Github, Gitlab
 
