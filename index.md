@@ -17,7 +17,7 @@ Bioinformatics Ph.D. researcher and software developer
 
 ## Employment
 
-`2017-current` 
+`2017-curr.` 
 **University of Kentucky**, Markey Cancer Center, Lexington, KY 40536  
 I am a bioinformatics researcher and software developer at 
 [Moseley Bioinformatics Lab](http://bioinformatics.cesb.uky.edu/)
