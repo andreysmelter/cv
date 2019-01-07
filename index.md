@@ -17,13 +17,13 @@ Bioinformatics Ph.D. researcher and software developer
 
 ## Employment
 
-`2017-` 
+`2017-current` 
 **University of Kentucky**, Markey Cancer Center, Lexington, KY 40536  
-I’m a Bioinformatics Researcher and software developer at 
-[Moseley Bioinformatics Lab](http://bioinformatics.cesb.uky.edu/).  
-Here I develop software packages for Nuclear Magnetic Resonance (NMR) and 
-Mass Spectrometry (MS) data analysis, analyze and integrate data from 
-publicly available scientific repositories, develop pipelines to facilitate 
+I am a bioinformatics researcher and software developer at 
+[Moseley Bioinformatics Lab](http://bioinformatics.cesb.uky.edu/)
+working on developing software packages for Nuclear Magnetic Resonance (NMR) and 
+Mass Spectrometry (MS) data analysis, analyzing and integrating data from 
+publicly available scientific repositories, developing pipelines to facilitate 
 deposition of metabolomics data.
 
 ## Education
@@ -32,9 +32,8 @@ deposition of metabolomics data.
 **University of Louisville**, Louisville, KY 40292  
 Department of Computer Engineering and Computer Science  
 Bioinformatics Ph.D.  
-My thesis was titled *"Algorithms for automated assignment of solution-state and solid-state protein NMR spectra"*  
-and is available through the 
-ThinkIR: The University of Louisville's Institutional Repository: 
+My Ph.D. thesis *"Algorithms for automated assignment of solution-state and solid-state protein NMR spectra"*  
+is available through the ThinkIR: The University of Louisville's Institutional Repository: 
 [ir.library.louisville.edu/etd/2779](https://ir.library.louisville.edu/etd/2779).
 
 `2010-2013`
@@ -45,15 +44,16 @@ M.S. Chemistry
 `2005-2010`
 **Perm State University**, Perm, Russia 614990  
 Department of Chemistry  
-Specialist Degree in Chemistry  
+Specialist Degree in Physical Chemistry  
 
 ## Publications
 
 <!-- ### Journals -->
 `2018`
 **Andrey Smelter**, and Hunter NB Moseley. "A Python library for FAIRer access and deposition to the Metabolomics 
-Workbench Data Repository." Metabolomics 14.5 (2018): 64, 
+Workbench Data Repository", Metabolomics 14.5 (2018): 64, 
 [doi:10.1007/s11306-018-1356-6](http://dx.doi.org/10.1007/s11306-018-1356-6)
+
 
 Xi Chen, **Andrey Smelter**, and Hunter N.B. Moseley. “Automatic 13 C Chemical Shift Reference Correction for 
 Unassigned Protein NMR Spectra”, Journal of Biomolecular NMR, 
@@ -62,23 +62,21 @@ Unassigned Protein NMR Spectra”, Journal of Biomolecular NMR,
 
 `2017`
 **Andrey Smelter**, Eric C. Rouchka, and Hunter N.B. Moseley. “Detecting and accounting for multiple sources of 
-positional variance in peak list registration and spin system grouping.” Journal of Biomolecular NMR, 
+positional variance in peak list registration and spin system grouping”, Journal of Biomolecular NMR, 
 [doi:10.1007/s10858-017-0126-5](http://dx.doi.org/10.1007/s10858-017-0126-5)
 
+
 **Andrey Smelter**, Morgan Astra, and Hunter NB Moseley. “A fast and efficient python library for interfacing 
-with the Biological Magnetic Resonance Data Bank.” BMC bioinformatics 18.1 (2017): 175, 
+with the Biological Magnetic Resonance Data Bank”, BMC bioinformatics 18.1 (2017): 175, 
 [doi:10.1186/s12859-017-1580-5](http://dx.doi.org/10.1186/s12859-017-1580-5)
 
 
-## Professional Meeting and Poster Presentations
+## Presentations at Scientific and Professional Meetings 
 
-`2015`
-“Automated Assignment of Magic-Angle-Spinning Solid-State Protein NMR Spectra”, 
-**Andrey Smelter**, Indraneel Reddy, Eric C. Rouchka, Hunter N.B. Moseley, UT-KBRIN Bioinformatics Summit, Buchanan, TN
-
-`2016`
-“Automated Assignment of Magic-Angle-Spinning Solid-State Protein NMR Spectra”, 
-**Andrey Smelter**, Eric C. Rouchka, Hunter N.B. Moseley, UT-KBRIN Bioinformatics Summit, Cadiz, KY
+`2018`
+“Isotopic Enumerator: a Python package to facilitate isotopically-resolved annotation and deposition of 
+metabolomics data”, **Andrey Smelter**, Hunter N.B. Moseley, Resource Center for Stable Isotope-Resolved 
+Metabolomics Symposium, Lexington, KY
 
 `2017`
 “Registration and grouping algorithms in protein NMR derived peak lists and their application in protein 
@@ -95,7 +93,7 @@ UT-KBRIN Bioinformatics Summit, Burns, TN
 “Application of peak list registration and spin system grouping algorithms in protein NMR derived peak lists”, 
 **Andrey Smelter**, Hunter N.B. Moseley, Commonwealth Computational Summit, Lexington, KY
 
-"Data Quality & Consistency in Various Scientific Repositories", 
+"Data Quality & Consistency in Scientific Repositories", 
 **Andrey Smelter**, Systems Biology and Omics Integration Journal Club.
 
 “Parsing mwTab files Provided by Metabolomics Workbench NIH Metabolomics Data Repository”, 
@@ -104,13 +102,16 @@ UT-KBRIN Bioinformatics Summit, Burns, TN
 “mwtab Python Library: facilitate reading and writing files in mwTab format”, 
 **Andrey Smelter**, Hunter N.B. Moseley, Metabolomics Workbench Usability Meeting.
 
-`2018`
-“Isotopic Enumerator: a Python package to facilitate isotopically-resolved annotation and deposition of 
-metabolomics data”, **Andrey Smelter**, Hunter N.B. Moseley, Resource Center for Stable Isotope-Resolved 
-Metabolomics Symposium, Lexington, KY
+`2016`
+“Automated Assignment of Magic-Angle-Spinning Solid-State Protein NMR Spectra”, 
+**Andrey Smelter**, Eric C. Rouchka, Hunter N.B. Moseley, UT-KBRIN Bioinformatics Summit, Cadiz, KY
+
+`2015`
+“Automated Assignment of Magic-Angle-Spinning Solid-State Protein NMR Spectra”, 
+**Andrey Smelter**, Indraneel Reddy, Eric C. Rouchka, Hunter N.B. Moseley, UT-KBRIN Bioinformatics Summit, Buchanan, TN
 
 
-## Software Engineering
+## Software Engineering Skills
 
 **Programming Languages:** Python, working knowledge of C++, R
 
@@ -122,7 +123,7 @@ Metabolomics Symposium, Lexington, KY
 
 **Version control:** Git, Github, Gitlab
 
-**Virtualization:** Docker, VirtualBox
+**Virtualization:** Docker, VirtualBox, QEMU/KVM
 
 
 ## Software
@@ -208,7 +209,7 @@ that facilitates collaboration.
 
 5-year Scholarship from Perm State University (2005-2010).
 
-Special scholarship from LUKOIL energy corporation (2009-2010).
+Outstanding student scholarship from LUKOIL energy corporation (2009-2010).
 
 
 ## Links
