@@ -54,7 +54,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 9pt;
+	font-size: 12pt;
 	line-height: 1.35em;
 	font-family: "Open sans", sans-serif;
 	/*margin-top: 1em;
@@ -165,7 +165,7 @@ a:hover {
  	margin-top: 0em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	/*color: #ccc;*/
 	font-family: Menlo, monospace, sans-serif;
 	font-size: 80%;
 }
