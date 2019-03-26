@@ -3,7 +3,7 @@ layout: cv
 title: Andrey Smelter's CV
 ---
 # Andrey Smelter
-Bioinformatics Ph.D. researcher and software developer
+Bioinformatics Ph.D. Researcher and Software Developer
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:andrey.smelter@gmail.com">andrey.smelter@gmail.com</a>
