@@ -217,13 +217,15 @@ Outstanding student scholarship from LUKOIL energy corporation (2009-2010).
 <!-- fa are fontawesome, ai are academicons -->
 <i class="fa fa-envelope"></i> <a href="mailto:andrey.smelter@gmail.com">andrey.smelter@gmail.com</a>
 
-<i class="fa fa-github"></i> <a href="http://github.com/andreysmelter">github.com/andreysmelter</a>
+<i class="fa fa-github"></i> <a href="https://github.com/andreysmelter">github.com/andreysmelter</a>
 
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/smelandr">twitter.com/smelandr</a>
+<i class="fa fa-python"></i> <a href="https://pypi.org/user/andreysmelter">pypi.org/user/andreysmelter</a>
 
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/andreysmelter">linkedin.com/in/andreysmelter</a>
 
-<i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-3056-9225">ORCiD: 0000-0003-3056-9225</a>
+<i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0003-3056-9225">ORCiD: orcid.org/0000-0003-3056-9225</a>
+
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/smelandr">twitter.com/smelandr</a>
 
 
 <!-- ### Footer
