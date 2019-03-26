@@ -117,11 +117,11 @@ UT-KBRIN Bioinformatics Summit, Burns, TN
 
 **Python packages:** NumPy, SciPy, Jupyter, Cython, bokeh, matplotlib, PyQt
 
-**Software documentation:** sphinx, Doxygen, Roxygen
+**Software documentation:** Sphinx, Doxygen, Roxygen
 
 **Software testing:** pytest, unittest, testthat
 
-**Version control:** Git, Github, Gitlab
+**Version control:** Git, GitHub, GitLab
 
 **Virtualization:** Docker, VirtualBox, QEMU/KVM
 
